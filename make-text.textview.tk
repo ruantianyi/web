@@ -13,8 +13,7 @@
     <script type="text/javascript" src="/static/webfont.js"></script>
     <script type="text/javascript" src="/static/shiciweb.js"></script>
     <script
-            type="text/javascript">WebFont.load({ google: { families: ["Liu Jian Mao Cao:regular:chinese-simplified,latin", "Zhi Mang Xing:regular:chinese-simplified,latin", "Long Cang:regular:chinese-simplified,latin"] } });
-
+            type="text/javasc
     </script>
 </head>
 <body class="body">
